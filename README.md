@@ -1,22 +1,28 @@
 # AI Spend Analyzer 💸
 
-A smart dashboard that helps users track AI tool expenses, analyze spending patterns, and discover cost-saving opportunities.
-live demo:
-ai-spend-analyzer.netlify.app
+AI Spend Analyzer is a smart dashboard that helps teams track AI tool expenses, visualize spending patterns, calculate potential savings, and generate downloadable reports.
+
 ## Features
-- Expense dashboard
-- AI insights
-- Pie chart analytics
-- Tool management
+- AI expense tracking
+- Interactive pie chart dashboard
+- Spending insights
 - Efficiency score
-- Export report
 - Local storage support
+- Downloadable reports
+- Responsive UI
 
 ## Technologies Used
 - HTML
 - CSS
 - JavaScript
 - Chart.js
+
+## Live Demo
+ai-spend-analyzer.netlify.app
+
+## Screenshots
+
+![Dashboard](screenshots/dashboard.png)
 
 ## Developed By
 Riya Jaiswal
